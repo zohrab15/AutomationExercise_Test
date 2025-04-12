@@ -1,2 +1,4 @@
 # AutomationExercise_Test
-AutomationExercise.com website test
+Functional and non-functional test project for automationexercise.com
+
+

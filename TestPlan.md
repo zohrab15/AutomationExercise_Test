@@ -1,145 +1,146 @@
-# 📝 Test Plan Document
 
-**Project Name:** Automation Exercise Website Testing  
-**Test Type:** Manual & Automation  
-**Author:** Zöhrab Mirzayev  
-**Created Date:** 13 April 2025  
-**Version:** 1.0  
+# 🧪 Test Plan Document
 
----
-
-## 1. 🎯 Objective
-
-The main objective of this test plan is to define the testing strategy, deliverables, test scope, test schedule, and responsibilities for testing [https://automationexercise.com](https://automationexercise.com). The goal is to ensure quality and correctness of the website's key functionalities.
+## 📄 Project Title: Automation Exercise Website – QA Portfolio Project  
+**Author**: Zöhrab Mirzayev  
+**Created On**: April 13, 2025  
+**Version**: 1.0
 
 ---
 
-## 2. 📌 Scope of Testing
+## 🎯 Objective
 
-### ✅ In-Scope
-- Home Page & Navigation  
-- User Registration & Login  
-- Product Listing & Filtering  
-- Add to Cart & Checkout  
-- Contact Form  
-- API Testing (with Postman)  
-- User Profile Functionality  
-- Automation Scripts using Selenium + Java
-
-### 🚫 Out-of-Scope
-- Mobile App or Responsive Design  
-- Actual Payment Processing  
-- Third-party integrations (ads, external links)
+The goal of this Test Plan is to define the scope, approach, resources, and schedule for testing the functionality and performance of [https://automationexercise.com](https://automationexercise.com). It outlines test objectives, test criteria, test deliverables, and responsibilities.
 
 ---
 
-## 3. 🧪 Test Types
+## 🔍 Scope of Testing
 
-| Test Type             | Description                                      |
-|------------------------|--------------------------------------------------|
-| Functional Testing     | Test user interactions and UI behavior           |
-| Regression Testing     | Ensure existing features work after updates      |
-| UI Testing             | Validate UI components and layouts               |
-| API Testing            | Test REST endpoints via Postman                  |
-| Automation Testing     | Selenium-based test automation for key flows     |
-| Negative Testing       | Input validation and edge case handling          |
+### ✅ In Scope
 
----
+- UI Functional Testing (Login, Signup, Cart, Checkout, etc.)
+- API Endpoint Validation (Manual & Automated)
+- Regression Testing for Core Features
+- Smoke Testing of Major Flows
+- Cross-browser Compatibility
 
-## 4. 🧰 Tools & Technologies
+### ❌ Out of Scope
 
-| Tool              | Usage                              |
-|-------------------|-------------------------------------|
-| IntelliJ IDEA     | Java Development                    |
-| Maven             | Project Build and Dependency Mgmt   |
-| Selenium WebDriver| Web UI Test Automation              |
-| TestNG            | Test Framework & Execution          |
-| Postman           | API Testing                         |
-| Git + GitHub      | Version Control & Portfolio Hosting |
-| Allure/Extent     | Reporting                           |
+- Load & Stress Testing  
+- Mobile App Testing
 
 ---
 
-## 5. 🔁 Test Phases & Timeline
+## 📅 Test Schedule
 
-| Phase                  | Timeline         |
-|------------------------|------------------|
-| Requirement Analysis   | 13 - 15 April     |
-| Manual Test Design     | 15 - 17 April     |
-| Manual Test Execution  | 18 - 20 April     |
-| Automation Setup       | 20 - 21 April     |
-| Automation Scripting   | 22 - 28 April     |
-| API Testing (Postman)  | 24 - 26 April     |
-| Report & Documentation | 27 - 30 April     |
-
-> Timeline is flexible as this is a learning project.
-
----
-
-## 6. 👤 Roles & Responsibilities
-
-| Role           | Responsibility                       |
-|----------------|----------------------------------------|
-| Zöhrab Mirzayev| All phases: design, testing, automation, documentation |
+| Activity                       | Start Date    | End Date      |
+|-------------------------------|---------------|---------------|
+| Requirement Analysis          | April 13, 2025 | April 14, 2025 |
+| Test Plan and Strategy        | April 14, 2025 | April 15, 2025 |
+| Manual Test Case Creation     | April 15, 2025 | April 17, 2025 |
+| Automation Script Development | April 17, 2025 | April 21, 2025 |
+| API Testing                   | April 17, 2025 | April 20, 2025 |
+| Test Execution                | April 21, 2025 | April 25, 2025 |
+| Bug Fix Verification          | April 26, 2025 | April 27, 2025 |
+| Final Report                  | April 28, 2025 | April 29, 2025 |
 
 ---
 
-## 7. 📂 Deliverables
+## 📦 Test Deliverables
 
-- `TestPlan.md`  
-- `TestStrategy.md`  
-- `manual-testcases.xlsx`  
-- Automation code (Java + Selenium)  
-- `postman/collection.json`  
-- Automation reports (`/reports`)  
-- Project documentation in README.md  
-- GitHub project repo link
+- Test Strategy Document  
+- Test Plan Document  
+- Test Cases (Manual & Automated)  
+- API Collections (Postman)  
+- Defect Reports  
+- Test Summary Report  
+- Screenshots & Logs  
+- Automation Framework Codebase
 
 ---
 
-## 8. 🛑 Entry & Exit Criteria
+## 🧱 Test Environment
 
-### Entry Criteria
-- Test environment is set up  
+| Component     | Description                  |
+|---------------|------------------------------|
+| Application   | https://automationexercise.com |
+| OS            | Windows 10 / macOS / Linux   |
+| Browsers      | Chrome, Firefox              |
+| Tools         | IntelliJ, Postman, Git, Maven, TestNG, Selenium |
+
+---
+
+## 🧪 Test Criteria
+
+### 🔹 Entry Criteria
+
+- Functional requirements defined  
 - Website is accessible  
-- Requirements understood  
-- Tools configured
+- Test environment is set up  
+- Test data prepared
 
-### Exit Criteria
-- All test cases executed  
-- Defects (if any) reported  
-- Automation scripts stable  
-- Documentation completed
+### 🔸 Exit Criteria
 
----
-
-## 9. ⚠️ Risks & Mitigation
-
-| Risk                                           | Mitigation                            |
-|------------------------------------------------|----------------------------------------|
-| Site downtime or instability                  | Run tests during off-peak hours        |
-| No official API documentation                 | Analyze requests manually via browser tools |
-| Automation script failures after UI change    | Use robust locators & POM pattern      |
+- All high-priority test cases executed  
+- All critical bugs fixed and verified  
+- Test report reviewed and approved
 
 ---
 
-## 10. 📈 Test Metrics
+## 🔧 Test Tools
 
-- Test Coverage (% of features tested)  
-- Manual Test Case Pass/Fail Count  
-- Automation Success Rate  
-- Bug Count by Severity  
-- API Test Status  
-- Execution Time
-
----
-
-## ✅ Approval
-
-| Name             | Role           | Status   |
-|------------------|----------------|----------|
-| Zöhrab Mirzayev  | Test Engineer  | ✅ Approved |
+- Selenium WebDriver  
+- Java + TestNG + Maven  
+- Postman + Newman  
+- Git + GitHub  
+- Reporting: Allure / ExtentReports
 
 ---
 
-*Prepared by Zöhrab Mirzayev – 2025*
+## 📋 Test Case Design Techniques
+
+- Boundary Value Analysis  
+- Equivalence Partitioning  
+- Positive and Negative Testing  
+- Exploratory Testing
+
+---
+
+## ⚠️ Risk & Contingency
+
+| Risk                             | Contingency Plan                        |
+|----------------------------------|------------------------------------------|
+| Dynamic UI changes               | Use stable locators and retry mechanisms |
+| Time constraints                 | Prioritize critical test cases           |
+| Test data instability            | Maintain versioned test data             |
+
+---
+
+## 👤 Roles and Responsibilities
+
+| Role            | Responsibility                 |
+|------------------|-------------------------------|
+| QA Lead         | Planning, Review, Execution    |
+| QA Engineer     | Manual & Automated Testing     |
+| API Tester      | Postman Testing & Collections  |
+| Automation Dev  | Script development & reporting |
+
+(Currently, all handled by Zöhrab Mirzayev.)
+
+---
+
+## 📓 Glossary
+
+- **SUT**: System Under Test  
+- **TC**: Test Case  
+- **TR**: Test Report  
+- **API**: Application Programming Interface  
+
+---
+
+## 📌 Approval
+
+| Name             | Role       | Signature | Date          |
+|------------------|------------|-----------|---------------|
+| Zöhrab Mirzayev  | QA Lead    | —         | April 13, 2025 |
+

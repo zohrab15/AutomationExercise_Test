@@ -96,7 +96,7 @@ git clone https://github.com/zohrab15/AutomationExercise_Test.git
 
 ## 📊 Reports & Results
 
-- **Manual Test Cases** – see `manual-testcases.xlsx`  
+- **Manual Test Cases** – see `manual-TestCases/`  
 - **Automation Reports** – available in `reports/`  
 - **Postman Collection** – located in `postman/`  
 - **Newman API Results** – `newman-reports/`

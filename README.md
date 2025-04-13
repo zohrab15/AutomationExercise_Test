@@ -47,6 +47,6 @@ automationexercise-testing/ ├── README.md ├── TestStrategy.md ├─
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/zohrab15/automationexercise-testing.git
+git clone https://github.com/zohrab15/automationexercise_test.git
 
 

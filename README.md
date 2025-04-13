@@ -66,7 +66,7 @@ automationexercise-testing/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/automationexercise-testing.git
+git clone https://github.com/zohrab15/AutomationExercise_Test.git
 ```
 
 ### 2. Import Project into IntelliJ IDEA  

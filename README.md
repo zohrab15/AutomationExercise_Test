@@ -120,7 +120,7 @@ git clone https://github.com/your-username/automationexercise-testing.git
 ## 👤 Author
 
 **Zöhrab Mirzayev**  
-📧 Email: your-cehri2015@gmail.com  
+📧 Email: cehri2015@gmail.com  
 🌍 Location: Azerbaijan  
 🎯 Focus: QA Engineering, Test Automation, Project Planning
 

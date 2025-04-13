@@ -14,7 +14,7 @@ This project aims to test all major features of [https://automationexercise.com]
 ## 📂 Project Structure
 
 ```
-AutomationExercise_test/
+AutomationExercise_Test/
 ├── README.md
 ├── TestStrategy.md
 ├── TestPlan.md

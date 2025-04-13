@@ -14,11 +14,20 @@ This project aims to test all major features of [https://automationexercise.com]
 ## 📂 Project Structure
 
 ```
-automationexercise-testing/
+AutomationExercise_test/
 ├── README.md
 ├── TestStrategy.md
 ├── TestPlan.md
-├── manual-testcases.xlsx
+├── manual-TestCases/
+│   ├── README.md
+│   ├── user-registration.xlsx
+│   ├── user-login.xlsx
+│   ├── contact-us.xlsx
+│   ├── cart.xlsx
+│   ├── checkout.xlsx
+│   ├── product-page.xlsx
+│   ├── newsletter.xlsx
+│   └── exploratory-notes.md
 ├── automation/
 │   ├── src/
 │   │   ├── pages/

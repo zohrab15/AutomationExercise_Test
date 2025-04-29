@@ -1,0 +1,26 @@
+# Bug ID: BUG-003 
+## Test Type: Functional  
+## Module: Home Page  
+## Description: No error or info message is shown when a user enters an already subscribed email.
+
+### Steps to Reproduce:
+1. Open the Home page page.
+2. Enter an email address that has already been subscribed (e.g., `test@example.com`).
+3. Click the "Subscribe" button.
+4. Observe the result.
+
+### Expected Result:
+- A clear message should be displayed, such as:
+  - "This email is already subscribed."
+  - or "You are already subscribed."
+
+### Actual Result:
+- No message is displayed. The form gives no feedback to the user, and the subscription process appears unresponsive.
+
+### Notes:
+- This prevents test cases related to duplicate email validation from being executed.
+- Issue was encountered in Google Chrome.
+- Possibly due to a missing frontend validation or unhandled backend response.
+
+### Severity: Medium  
+### Priority: Medium  

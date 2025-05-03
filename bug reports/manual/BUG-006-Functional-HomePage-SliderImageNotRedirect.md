@@ -29,4 +29,4 @@ Clicking on slider images produces no action. No redirection occurs, and the use
 ## 🏷️ Status: Open  
 
 ## 📎 Attachments:
-- [Bug Reproduction Video] (https://drive.google.com/file/d/15irmH31UmFcZzHuAp9bYDttahN7Xc9uT/view?usp=drive_link)
+- [Bug Reproduction Video](https://drive.google.com/file/d/15irmH31UmFcZzHuAp9bYDttahN7Xc9uT/view?usp=drive_link)

@@ -29,4 +29,4 @@
 ## 🚦 Status: Open  
 
 ## 📎 Attachments:
-- Screenshot showing the footer without the "Home" link.
+- [Bug Reproduction Video](https://drive.google.com/file/d/1Vx-SGagh28JdekHKjjdaTBNZBTc5seSa/view?usp=drive_link)

@@ -51,4 +51,4 @@ Only the newsletter subscription section is present. No other required footer el
 ---
 
 ## 📎 Attachments:
-- [Screenshot of the bug](link-to-screenshot-if-available)
+- [Bug Reproduction Video]([link-to-screenshot-if-available](https://drive.google.com/file/d/1Vx-SGagh28JdekHKjjdaTBNZBTc5seSa/view?usp=drive_link))

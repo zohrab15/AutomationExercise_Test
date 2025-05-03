@@ -33,7 +33,7 @@ Actual Result:
 Only the newsletter subscription section is present. No other required footer elements are visible.
 
 Attachments:
-![Screenshot of the bug](https://drive.google.com/file/d/13aMF4E0-pDW81WZZlHodV2CbKlK5FEse/view?usp=drive_link)
+[Screenshot of the bug](https://drive.google.com/file/d/13aMF4E0-pDW81WZZlHodV2CbKlK5FEse/view?usp=drive_link)
 
 Notes:
 The absence of critical footer elements reduces usability and completeness of the website layout. This issue should be resolved to ensure a fully functional and informative footer section.

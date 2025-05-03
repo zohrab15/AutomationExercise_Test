@@ -29,4 +29,4 @@ Clicking on slider images produces no action. No redirection occurs, and the use
 ## 🏷️ Status: Open  
 
 ## 📎 Attachments:
-- (Optional) Video: [slider_click_issue.mkv](./attachments/slider_click_issue.mkv)
+- [Bug Reproduction Video] (https://drive.google.com/file/d/15irmH31UmFcZzHuAp9bYDttahN7Xc9uT/view?usp=drive_link)

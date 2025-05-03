@@ -5,7 +5,7 @@
 ## Module: Home Page  
 
 ## 🧪 Test Case:
-**Test Case ID:** TC_HP_016  
+**Test Case ID:** TC_HP_025  
 **Test Scenario:** Verify that pressing 'Home' from the footer takes user to the homepage.
 
 ## 🔁 Steps to Reproduce:

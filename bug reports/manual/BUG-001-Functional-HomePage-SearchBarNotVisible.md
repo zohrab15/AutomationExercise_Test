@@ -50,3 +50,11 @@ The search bar is missing from the home page, making it impossible to execute th
 ## 📌 Status
 
 **Open**
+
+---
+
+## 📎 Attachments
+
+- ![Screenshot showing missing search bar](https://example.com/screenshot.png)
+- [Bug Reproduction Video](https://example.com/bug-video.mp4)
+
